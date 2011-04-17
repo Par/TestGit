@@ -16,20 +16,20 @@
 
 
 		<Button
-			android:id="@+id/topMe1"
+			android:id="@+id/one"
 			android:layout_width="80dp"
 			android:text="@string/one"
 			style="@style/home_button" />
 
 		<Button
-			android:id="@+id/topMe2"
+			android:id="@+id/two"
 			android:layout_width="120dp"
 			android:text="@string/two"
 			style="@style/home_button" />
 
 
 		<Button
-			android:id="@+id/topMe3"
+			android:id="@+id/three"
 			android:layout_width="160dp"
 			android:text="@string/three"
 			style="@style/home_button" />
@@ -42,19 +42,19 @@
 			style="@style/home_button" />
 
 		<Button
-			android:id="@+id/bottomMe1"
+			android:id="@+id/four"
 			android:layout_width="160dp"
 			android:text="@string/four"
 			style="@style/home_button" />
 
 		<Button
-			android:id="@+id/bottomMe2"
+			android:id="@+id/five"
 			android:layout_width="120dp"
 			android:text="@string/five"
 			style="@style/home_button" />
 
 		<Button
-			android:id="@+id/bottomMe3"
+			android:id="@+id/six"
 			android:layout_width="80dp"
 			android:text="@string/five"
 			style="@style/home_button" />
