@@ -2,4 +2,13 @@
 <resources>
     <string name="hello">Hello World, TestGit!</string>
     <string name="app_name">TestGit</string>
+    
+    <string name="one">One</string>
+    <string name="two">Two</string>
+    <string name="three">Three</string>
+    <string name="four">Four</string>
+    <string name="five">Five</string>
+    <string name="six">Six</string>
+    <string name="click_me">Click me!</string>
+    
 </resources>
